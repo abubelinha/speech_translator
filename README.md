@@ -15,6 +15,7 @@ $ pip3 install googletrans
 ```
 ## Author
 * [Christopher Dedman-Rollet](https://twitter.com/DedmanRollet)
+* https://christechjourney.wordpress.com/2020/09/17/python-speech-translator/
 
 ## Additional Information
 In the future, I plan to implement this script (or the final version) into a Raspberry Pi.
